@@ -10,7 +10,7 @@ from .serializers import userProfileSerializer
 class UserProfileListCreateView(ListCreateAPIView):
     queryset=userProfile.objects.all()
     serializer_class=userProfileSerializer
-    permission_classes=[IsAuthenticated]
+    
 
     def perform_create(self, serializer):
         user=self.request.user
@@ -20,4 +20,4 @@ class UserProfileListCreateView(ListCreateAPIView):
 class userProfileDetailView(RetrieveUpdateDestroyAPIView):
     queryset=userProfile.objects.all()
     serializer_class=userProfileSerializer
-    permission_classes=[IsOwnerProfileOrReadOnly,IsAuthenticated]
+    

@@ -1,4 +1,4 @@
-"""eventsScheduler URL Configuration
+"""coleman URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/2.2/topics/http/urls/
@@ -13,9 +13,9 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
-from django.contrib import admin
-from django.urls import path, include
 from django.conf.urls import url, include
+from django.contrib import admin
+from django.urls import path
 from django.conf import settings
 from django.http import HttpResponseRedirect
 
@@ -23,19 +23,16 @@ from django.http import HttpResponseRedirect
 from rest_framework import routers
 from mtasks.serializers import TaskViewSet
 
-
 router = routers.DefaultRouter()
 router.register(r'tasks', TaskViewSet)
 
+
+
 urlpatterns = [
+    url(r'^$', lambda r: HttpResponseRedirect('admin/')),   # Remove this redirect if you add custom views
     path('admin/', admin.site.urls),
-    path('auth/', include('djoser.urls')),
-    path('auth/', include('djoser.urls.jwt')),
-    path("api/accounts/",include("accounts.urls")),
-    #path("api/events/",include("events.urls")),
     url(r'^advanced_filters/', include('advanced_filters.urls')),
     url(r'^api/v1/', include(router.urls)),
 ]
-
 
 admin.site.site_header = settings.SITE_HEADER

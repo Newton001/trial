@@ -360,3 +360,5 @@ Traceback (most recent call last):
 rest_framework.request.WrappedAttributeError: 'DjangoModelPermissionsOrAnonReadOnly' object has no attribute 'authenticate'
 2020-10-09 01:37:20,351 ERROR [django.server] "GET /auth/users/me/ HTTP/1.1" 500 141120
 2020-10-09 01:37:20,351 ERROR [django.server] "GET /auth/users/me/ HTTP/1.1" 500 141120
+2020-10-09 02:00:03,907 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-10-09 02:00:03,907 INFO [django.utils.autoreload] Watching for file changes with StatReloader

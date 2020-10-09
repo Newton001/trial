@@ -87,9 +87,14 @@ WSGI_APPLICATION = 'coleman.wsgi.application'
 # See more options at https://github.com/kennethreitz/dj-database-url
 #
 DATABASES = {
-    'default': dj_database_url.config(
-                    default='sqlite:///%s/db.sqlite3' % BASE_DIR,
-                    conn_max_age=300)
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.environ.get("DB_HOST"),
+        'USER': os.environ.get("DB_USER"),
+        'PASSWORD': os.environ.get("DB_PASS"),
+        'HOST': os.environ.get("DB_HOST"),
+        
+    }
 }
 
 

@@ -219,3 +219,7 @@ AssertionError: 'UserProfileListCreateView' should either include a `serializer_
 2020-11-14 06:38:25,611 INFO [django.server] "GET /auth/ HTTP/1.1" 200 5309
 2020-11-14 06:38:31,566 WARNING [django.server] "GET /auth/users/ HTTP/1.1" 401 10880
 2020-11-14 06:38:31,566 WARNING [django.server] "GET /auth/users/ HTTP/1.1" 401 10880
+2020-11-14 07:16:12,029 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-14 07:16:12,029 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-14 07:18:05,126 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-14 07:18:05,126 INFO [django.utils.autoreload] Watching for file changes with StatReloader

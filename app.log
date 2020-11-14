@@ -1,364 +1,221 @@
-2020-10-09 01:18:18,047 INFO [django.server] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,054 INFO [django.server] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,047 INFO [django.server] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,054 INFO [django.server] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,067 INFO [django.server] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
-2020-10-09 01:18:18,068 INFO [django.server] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,067 INFO [django.server] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
-2020-10-09 01:18:18,068 INFO [django.server] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,075 INFO [django.server] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
-2020-10-09 01:18:18,075 INFO [django.server] "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
-2020-10-09 01:18:18,076 INFO [django.server] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,076 INFO [django.server] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,088 INFO [django.server] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,088 INFO [django.server] "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,125 INFO [django.server] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,125 INFO [django.server] "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
-2020-10-09 01:18:18,145 INFO [django.server] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
-2020-10-09 01:18:18,146 INFO [django.server] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
-2020-10-09 01:18:18,145 INFO [django.server] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
-2020-10-09 01:18:18,146 INFO [django.server] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
-2020-10-09 01:18:18,228 INFO [django.server] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
-2020-10-09 01:18:18,228 INFO [django.server] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
-2020-10-09 01:18:18,228 INFO [django.server] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
-2020-10-09 01:18:18,228 INFO [django.server] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
-2020-10-09 01:18:18,239 INFO [django.server] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
-2020-10-09 01:18:18,239 INFO [django.server] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
-2020-10-09 01:18:40,665 INFO [django.server] "OPTIONS /admin/mtasks/task/ HTTP/1.1" 302 0
-2020-10-09 01:18:40,665 INFO [django.server] "OPTIONS /admin/mtasks/task/ HTTP/1.1" 302 0
-2020-10-09 01:18:54,128 INFO [django.server] "OPTIONS /admin/mtasks/task/ HTTP/1.1" 302 0
-2020-10-09 01:18:54,128 INFO [django.server] "OPTIONS /admin/mtasks/task/ HTTP/1.1" 302 0
-2020-10-09 01:19:03,877 INFO [django.server] "OPTIONS /admin/mtasks/task/ HTTP/1.1" 302 0
-2020-10-09 01:19:03,877 INFO [django.server] "OPTIONS /admin/mtasks/task/ HTTP/1.1" 302 0
-2020-10-09 01:19:54,764 INFO [django.server] "HEAD /admin/mtasks/task/ HTTP/1.1" 302 0
-2020-10-09 01:19:54,764 INFO [django.server] "HEAD /admin/mtasks/task/ HTTP/1.1" 302 0
-2020-10-09 01:19:54,795 INFO [django.server] "HEAD /admin/login/?next=/admin/mtasks/task/ HTTP/1.1" 200 1844
-2020-10-09 01:19:54,795 INFO [django.server] "HEAD /admin/login/?next=/admin/mtasks/task/ HTTP/1.1" 200 1844
-2020-10-09 01:21:17,779 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7017
-2020-10-09 01:21:17,779 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7017
-2020-10-09 01:21:17,821 INFO [django.server] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
-2020-10-09 01:21:17,821 INFO [django.server] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
-2020-10-09 01:21:21,737 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 200 10646
-2020-10-09 01:21:21,737 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 200 10646
-2020-10-09 01:21:21,813 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:21:21,813 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:21:25,440 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7017
-2020-10-09 01:21:25,440 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7017
-2020-10-09 01:21:26,513 INFO [django.server] "GET /admin/logout/ HTTP/1.1" 200 1208
-2020-10-09 01:21:26,513 INFO [django.server] "GET /admin/logout/ HTTP/1.1" 200 1208
-2020-10-09 01:21:28,380 INFO [django.server] "GET /admin/ HTTP/1.1" 302 0
-2020-10-09 01:21:28,380 INFO [django.server] "GET /admin/ HTTP/1.1" 302 0
-2020-10-09 01:21:28,407 INFO [django.server] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1820
-2020-10-09 01:21:28,407 INFO [django.server] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1820
-2020-10-09 01:21:28,444 INFO [django.server] "GET /static/admin/css/login.css HTTP/1.1" 304 0
-2020-10-09 01:21:28,444 INFO [django.server] "GET /static/admin/css/login.css HTTP/1.1" 304 0
-2020-10-09 01:22:32,613 WARNING [django.security.csrf] Forbidden (CSRF token missing or incorrect.): /admin/login/
-2020-10-09 01:22:32,613 WARNING [django.security.csrf] Forbidden (CSRF token missing or incorrect.): /admin/login/
-2020-10-09 01:22:32,616 WARNING [django.server] "POST /admin/login/?next=/admin/ HTTP/1.1" 403 2513
-2020-10-09 01:22:32,616 WARNING [django.server] "POST /admin/login/?next=/admin/ HTTP/1.1" 403 2513
-2020-10-09 01:22:47,640 WARNING [django.security.csrf] Forbidden (CSRF token missing or incorrect.): /admin/login/
-2020-10-09 01:22:47,640 WARNING [django.security.csrf] Forbidden (CSRF token missing or incorrect.): /admin/login/
-2020-10-09 01:22:47,644 WARNING [django.server] "POST /admin/login/?next=/admin/ HTTP/1.1" 403 2513
-2020-10-09 01:22:47,644 WARNING [django.server] "POST /admin/login/?next=/admin/ HTTP/1.1" 403 2513
-2020-10-09 01:22:52,587 INFO [django.server] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1820
-2020-10-09 01:22:52,587 INFO [django.server] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1820
-2020-10-09 01:22:54,104 INFO [django.server] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1820
-2020-10-09 01:22:54,104 INFO [django.server] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1820
-2020-10-09 01:22:55,326 INFO [django.server] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1820
-2020-10-09 01:22:55,326 INFO [django.server] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1820
-2020-10-09 01:23:46,976 INFO [django.server] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
-2020-10-09 01:23:46,976 INFO [django.server] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
-2020-10-09 01:23:47,034 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7017
-2020-10-09 01:23:47,034 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7017
-2020-10-09 01:23:50,397 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 200 10646
-2020-10-09 01:23:50,397 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 200 10646
-2020-10-09 01:23:50,484 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:23:50,484 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:29:19,695 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:19,695 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:19,718 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:19,718 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:30,480 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:30,480 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:30,519 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:30,519 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:39,899 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:39,899 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:39,923 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:39,923 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:41,064 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:41,064 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:41,087 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:41,087 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:42,031 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:42,031 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:42,050 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:42,050 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:42,984 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:42,984 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:43,008 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:43,008 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:43,414 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:43,414 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:43,436 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:43,436 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:43,753 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:43,753 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:29:43,774 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:29:43,774 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:09,113 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:09,113 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:09,134 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:09,134 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:09,432 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:09,432 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:09,453 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:09,453 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:09,786 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:09,786 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:09,806 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:09,806 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:13,819 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:13,819 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:13,845 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:13,845 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:14,567 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:14,567 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:14,587 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:14,587 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:15,251 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:15,251 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:15,273 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:15,273 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:15,931 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:15,931 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:15,953 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:15,953 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:16,692 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:16,692 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:16,713 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:16,713 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:17,307 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:17,307 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:17,325 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:17,325 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:17,999 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:17,999 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:18,018 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:18,018 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:18,656 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:18,656 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:18,672 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:18,672 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:19,284 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:19,284 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:19,306 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:19,306 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:19,981 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:19,981 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:19,998 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:19,998 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:20,636 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:20,636 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:20,660 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:20,660 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:21,319 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:21,319 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:21,342 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:21,342 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:21,979 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:21,979 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:21,997 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:21,997 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:22,647 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:22,647 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:22,665 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:22,665 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:23,299 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:23,299 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:23,316 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:23,316 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:23,984 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:23,984 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:24,008 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:24,008 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:24,637 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:24,637 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:24,654 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:24,654 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:25,299 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:25,299 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:25,315 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:25,315 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:26,027 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:26,027 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:26,043 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:26,043 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:26,728 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:26,728 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:26,754 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:26,754 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:27,408 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:27,408 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:27,425 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:27,425 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:28,065 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:28,065 INFO [django.server] "GET /admin/mtasks/task/add/ HTTP/1.1" 302 0
-2020-10-09 01:30:28,085 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:28,085 INFO [django.server] "GET /admin/login/?next=/admin/mtasks/task/add/ HTTP/1.1" 200 1852
-2020-10-09 01:30:47,590 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7017
-2020-10-09 01:30:47,590 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7017
-2020-10-09 01:30:53,083 INFO [django.server] "GET /admin/accounts/userprofile/ HTTP/1.1" 200 4401
-2020-10-09 01:30:53,083 INFO [django.server] "GET /admin/accounts/userprofile/ HTTP/1.1" 200 4401
-2020-10-09 01:30:53,122 INFO [django.server] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
-2020-10-09 01:30:53,122 INFO [django.server] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
-2020-10-09 01:30:53,148 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:30:53,148 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:30:53,185 INFO [django.server] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
-2020-10-09 01:30:53,185 INFO [django.server] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
-2020-10-09 01:30:58,225 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7017
-2020-10-09 01:30:58,225 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7017
-2020-10-09 01:31:01,460 INFO [django.server] "GET /admin/authtoken/token/add/ HTTP/1.1" 200 4601
-2020-10-09 01:31:01,460 INFO [django.server] "GET /admin/authtoken/token/add/ HTTP/1.1" 200 4601
-2020-10-09 01:31:01,527 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:31:01,527 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:31:05,882 INFO [django.server] "POST /admin/authtoken/token/add/ HTTP/1.1" 302 0
-2020-10-09 01:31:05,882 INFO [django.server] "POST /admin/authtoken/token/add/ HTTP/1.1" 302 0
-2020-10-09 01:31:05,978 INFO [django.server] "GET /admin/authtoken/token/ HTTP/1.1" 200 5363
-2020-10-09 01:31:05,978 INFO [django.server] "GET /admin/authtoken/token/ HTTP/1.1" 200 5363
-2020-10-09 01:31:06,033 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:31:06,033 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:31:06,065 INFO [django.server] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
-2020-10-09 01:31:06,065 INFO [django.server] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
-2020-10-09 01:31:06,065 INFO [django.server] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
-2020-10-09 01:31:06,065 INFO [django.server] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
-2020-10-09 01:31:13,871 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7375
-2020-10-09 01:31:13,871 INFO [django.server] "GET /admin/ HTTP/1.1" 200 7375
-2020-10-09 01:31:17,990 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 200 5658
-2020-10-09 01:31:17,990 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 200 5658
-2020-10-09 01:31:18,053 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:31:18,053 INFO [django.server] "GET /admin/jsi18n/ HTTP/1.1" 200 3223
-2020-10-09 01:34:28,385 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:34:28,385 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:34:28,417 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:34:28,417 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:34:41,729 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:34:41,729 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:34:41,749 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:34:41,749 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:34:48,470 WARNING [django.security.csrf] Forbidden (CSRF token missing or incorrect.): /admin/auth/user/add/
-2020-10-09 01:34:48,470 WARNING [django.security.csrf] Forbidden (CSRF token missing or incorrect.): /admin/auth/user/add/
-2020-10-09 01:34:48,475 WARNING [django.server] "POST /admin/auth/user/add/ HTTP/1.1" 403 2513
-2020-10-09 01:34:48,475 WARNING [django.server] "POST /admin/auth/user/add/ HTTP/1.1" 403 2513
-2020-10-09 01:35:05,502 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:05,502 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:05,523 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:05,523 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:07,124 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:07,124 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:07,145 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:07,145 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:08,059 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:08,059 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:08,074 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:08,074 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:08,985 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:08,985 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:09,007 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:09,007 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:09,886 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:09,886 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:09,903 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:09,903 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:10,759 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:10,759 INFO [django.server] "GET /admin/auth/user/add/ HTTP/1.1" 302 0
-2020-10-09 01:35:10,782 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:10,782 INFO [django.server] "GET /admin/login/?next=/admin/auth/user/add/ HTTP/1.1" 200 1848
-2020-10-09 01:35:30,072 INFO [django.server] "GET /admin/logout/ HTTP/1.1" 200 1208
-2020-10-09 01:35:30,072 INFO [django.server] "GET /admin/logout/ HTTP/1.1" 200 1208
-2020-10-09 01:35:31,921 INFO [django.server] "GET /admin/ HTTP/1.1" 302 0
-2020-10-09 01:35:31,921 INFO [django.server] "GET /admin/ HTTP/1.1" 302 0
-2020-10-09 01:35:31,948 INFO [django.server] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1820
-2020-10-09 01:35:31,948 INFO [django.server] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1820
-2020-10-09 01:35:58,361 INFO [django.server] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1989
-2020-10-09 01:35:58,361 INFO [django.server] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 1989
-2020-10-09 01:36:49,509 WARNING [django.server] "GET /auth/jwt/refresh/ HTTP/1.1" 405 7444
-2020-10-09 01:36:49,509 WARNING [django.server] "GET /auth/jwt/refresh/ HTTP/1.1" 405 7444
-2020-10-09 01:36:49,579 INFO [django.server] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
-2020-10-09 01:36:49,579 INFO [django.server] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
-2020-10-09 01:36:49,593 INFO [django.server] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
-2020-10-09 01:36:49,593 INFO [django.server] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
-2020-10-09 01:36:49,612 INFO [django.server] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
-2020-10-09 01:36:49,612 INFO [django.server] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
-2020-10-09 01:36:49,637 INFO [django.server] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
-2020-10-09 01:36:49,637 INFO [django.server] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
-2020-10-09 01:36:49,711 INFO [django.server] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
-2020-10-09 01:36:49,711 INFO [django.server] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
-2020-10-09 01:36:49,740 INFO [django.server] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
-2020-10-09 01:36:49,740 INFO [django.server] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
-2020-10-09 01:36:49,763 INFO [django.server] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
-2020-10-09 01:36:49,763 INFO [django.server] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
-2020-10-09 01:36:49,808 INFO [django.server] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
-2020-10-09 01:36:49,808 INFO [django.server] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
-2020-10-09 01:36:49,846 INFO [django.server] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
-2020-10-09 01:36:49,846 INFO [django.server] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
-2020-10-09 01:36:49,879 INFO [django.server] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
-2020-10-09 01:36:49,879 INFO [django.server] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
-2020-10-09 01:36:49,888 INFO [django.server] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
-2020-10-09 01:36:49,888 INFO [django.server] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
-2020-10-09 01:36:55,697 WARNING [django.server] "POST /auth/jwt/refresh/ HTTP/1.1" 401 7439
-2020-10-09 01:36:55,697 WARNING [django.server] "POST /auth/jwt/refresh/ HTTP/1.1" 401 7439
-2020-10-09 01:37:20,325 ERROR [django.request] Internal Server Error: /auth/users/me/
+2020-11-11 00:31:47,367 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:31:47,367 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:31:59,840 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-11 00:31:59,840 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-11 00:32:00,013 WARNING [django.server] "GET /favicon.ico HTTP/1.1" 404 2806
+2020-11-11 00:32:00,013 WARNING [django.server] "GET /favicon.ico HTTP/1.1" 404 2806
+2020-11-11 00:32:12,209 WARNING [django.server] "GET /api/token/ HTTP/1.1" 405 7652
+2020-11-11 00:32:12,209 WARNING [django.server] "GET /api/token/ HTTP/1.1" 405 7652
+2020-11-11 00:32:12,283 INFO [django.server] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2020-11-11 00:32:12,284 INFO [django.server] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2020-11-11 00:32:12,283 INFO [django.server] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2020-11-11 00:32:12,284 INFO [django.server] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2020-11-11 00:32:12,286 INFO [django.server] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2020-11-11 00:32:12,286 INFO [django.server] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2020-11-11 00:32:12,297 INFO [django.server] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2020-11-11 00:32:12,297 INFO [django.server] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2020-11-11 00:32:12,302 INFO [django.server] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2020-11-11 00:32:12,302 INFO [django.server] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2020-11-11 00:32:12,306 INFO [django.server] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2020-11-11 00:32:12,306 INFO [django.server] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2020-11-11 00:32:12,309 INFO [django.server] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2020-11-11 00:32:12,309 INFO [django.server] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2020-11-11 00:32:12,309 INFO [django.server] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2020-11-11 00:32:12,309 INFO [django.server] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+2020-11-11 00:32:12,309 INFO [django.server] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2020-11-11 00:32:12,312 INFO [django.server] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+2020-11-11 00:32:12,309 INFO [django.server] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+2020-11-11 00:32:12,312 INFO [django.server] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+2020-11-11 00:32:12,388 INFO [django.server] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2020-11-11 00:32:12,388 INFO [django.server] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2020-11-11 00:32:27,664 WARNING [django.server] "POST /api/token/ HTTP/1.1" 401 7592
+2020-11-11 00:32:27,664 WARNING [django.server] "POST /api/token/ HTTP/1.1" 401 7592
+2020-11-11 00:32:49,663 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-11 00:32:49,663 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-11 00:32:59,326 INFO [django.server] "GET /auth/ HTTP/1.1" 200 5309
+2020-11-11 00:32:59,326 INFO [django.server] "GET /auth/ HTTP/1.1" 200 5309
+2020-11-11 00:33:10,277 WARNING [django.server] "GET /auth/users/ HTTP/1.1" 401 10880
+2020-11-11 00:33:10,277 WARNING [django.server] "GET /auth/users/ HTTP/1.1" 401 10880
+2020-11-11 00:33:44,716 INFO [django.server] "POST /auth/users/ HTTP/1.1" 201 10927
+2020-11-11 00:33:44,716 INFO [django.server] "POST /auth/users/ HTTP/1.1" 201 10927
+2020-11-11 00:33:59,566 WARNING [django.server] "GET /api/token/ HTTP/1.1" 405 7652
+2020-11-11 00:33:59,566 WARNING [django.server] "GET /api/token/ HTTP/1.1" 405 7652
+2020-11-11 00:34:17,470 INFO [django.server] "POST /api/token/ HTTP/1.1" 200 8051
+2020-11-11 00:34:17,470 INFO [django.server] "POST /api/token/ HTTP/1.1" 200 8051
+2020-11-11 00:35:22,680 WARNING [django.server] "GET /api/token/refresh/ HTTP/1.1" 405 7463
+2020-11-11 00:35:22,680 WARNING [django.server] "GET /api/token/refresh/ HTTP/1.1" 405 7463
+2020-11-11 00:35:29,767 WARNING [django.server] "POST /api/token/refresh/ HTTP/1.1" 401 7458
+2020-11-11 00:35:29,767 WARNING [django.server] "POST /api/token/refresh/ HTTP/1.1" 401 7458
+2020-11-11 00:40:54,707 INFO [django.utils.autoreload] /home/jelimo/FEMA/eventsScheduler/settings.py changed, reloading.
+2020-11-11 00:40:54,707 INFO [django.utils.autoreload] /home/jelimo/FEMA/eventsScheduler/settings.py changed, reloading.
+2020-11-11 00:40:55,165 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:40:55,165 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:41:09,082 INFO [django.utils.autoreload] /home/jelimo/FEMA/eventsScheduler/settings.py changed, reloading.
+2020-11-11 00:41:09,082 INFO [django.utils.autoreload] /home/jelimo/FEMA/eventsScheduler/settings.py changed, reloading.
+2020-11-11 00:41:09,584 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:41:09,584 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:41:19,046 WARNING [django.server] "POST /api/token/refresh/ HTTP/1.1" 401 7458
+2020-11-11 00:41:19,046 WARNING [django.server] "POST /api/token/refresh/ HTTP/1.1" 401 7458
+2020-11-11 00:48:43,304 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:48:43,304 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:49:13,040 INFO [django.utils.autoreload] /home/jelimo/FEMA/eventsScheduler/urls.py changed, reloading.
+2020-11-11 00:49:13,040 INFO [django.utils.autoreload] /home/jelimo/FEMA/eventsScheduler/urls.py changed, reloading.
+2020-11-11 00:49:13,497 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:49:13,497 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:49:47,980 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:49:47,980 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:50:02,526 WARNING [django.server] "GET / HTTP/1.1" 404 2894
+2020-11-11 00:50:02,526 WARNING [django.server] "GET / HTTP/1.1" 404 2894
+2020-11-11 00:50:25,994 ERROR [django.request] Internal Server Error: /openapi/
 Traceback (most recent call last):
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/request.py", line 77, in wrap_attributeerrors
-    yield
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/request.py", line 223, in user
-    self._authenticate()
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/request.py", line 376, in _authenticate
-    user_auth_tuple = authenticator.authenticate(self)
-AttributeError: 'DjangoModelPermissionsOrAnonReadOnly' object has no attribute 'authenticate'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/kellino/env/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/django/core/handlers/exception.py", line 34, in inner
     response = get_response(request)
-  File "/home/kellino/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/django/core/handlers/base.py", line 115, in _get_response
     response = self.process_exception_by_middleware(e, request)
-  File "/home/kellino/env/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/django/core/handlers/base.py", line 113, in _get_response
     response = wrapped_callback(request, *callback_args, **callback_kwargs)
-  File "/home/kellino/env/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
     return view_func(*args, **kwargs)
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/viewsets.py", line 116, in view
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/django/views/generic/base.py", line 71, in view
     return self.dispatch(request, *args, **kwargs)
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/views.py", line 495, in dispatch
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/views.py", line 495, in dispatch
     response = self.handle_exception(exc)
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/views.py", line 455, in handle_exception
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/schemas/views.py", line 41, in handle_exception
+    return super(SchemaView, self).handle_exception(exc)
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/views.py", line 455, in handle_exception
     self.raise_uncaught_exception(exc)
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/views.py", line 466, in raise_uncaught_exception
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/views.py", line 466, in raise_uncaught_exception
     raise exc
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/views.py", line 483, in dispatch
-    self.initial(request, *args, **kwargs)
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/views.py", line 400, in initial
-    self.perform_authentication(request)
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/views.py", line 326, in perform_authentication
-    request.user
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/request.py", line 223, in user
-    self._authenticate()
-  File "/usr/lib/python3.8/contextlib.py", line 131, in __exit__
-    self.gen.throw(type, value, traceback)
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/request.py", line 81, in wrap_attributeerrors
-    six.reraise(type(exc), exc, info[2])
-  File "/home/kellino/env/lib/python3.8/site-packages/django/utils/six.py", line 683, in reraise
-    raise value.with_traceback(tb)
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/request.py", line 77, in wrap_attributeerrors
-    yield
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/request.py", line 223, in user
-    self._authenticate()
-  File "/home/kellino/env/lib/python3.8/site-packages/rest_framework/request.py", line 376, in _authenticate
-    user_auth_tuple = authenticator.authenticate(self)
-rest_framework.request.WrappedAttributeError: 'DjangoModelPermissionsOrAnonReadOnly' object has no attribute 'authenticate'
-2020-10-09 01:37:20,351 ERROR [django.server] "GET /auth/users/me/ HTTP/1.1" 500 141120
-2020-10-09 01:37:20,351 ERROR [django.server] "GET /auth/users/me/ HTTP/1.1" 500 141120
-2020-10-09 02:00:03,907 INFO [django.utils.autoreload] Watching for file changes with StatReloader
-2020-10-09 02:00:03,907 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/views.py", line 492, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/schemas/views.py", line 30, in get
+    schema = self.schema_generator.get_schema(request, self.public)
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/schemas/generators.py", line 281, in get_schema
+    links = self.get_links(None if public else request)
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/schemas/generators.py", line 319, in get_links
+    link = view.schema.get_link(path, method, base_url=self.url)
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/schemas/inspectors.py", line 217, in get_link
+    fields += self.get_serializer_fields(path, method)
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/schemas/inspectors.py", line 338, in get_serializer_fields
+    serializer = view.get_serializer()
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/generics.py", line 110, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/home/jelimo/ENVIRONS/fema/lib/python3.8/site-packages/rest_framework/generics.py", line 124, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'UserProfileListCreateView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+2020-11-11 00:50:25,995 ERROR [django.server] "GET /openapi/ HTTP/1.1" 500 138870
+2020-11-11 00:50:25,995 ERROR [django.server] "GET /openapi/ HTTP/1.1" 500 138870
+2020-11-11 00:56:51,002 INFO [django.utils.autoreload] /home/jelimo/FEMA/eventsScheduler/settings.py changed, reloading.
+2020-11-11 00:56:51,002 INFO [django.utils.autoreload] /home/jelimo/FEMA/eventsScheduler/settings.py changed, reloading.
+2020-11-11 00:57:43,173 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:57:43,173 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 00:57:50,213 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-11 00:57:50,213 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-11 00:57:55,839 WARNING [django.server] "GET /api/token/ HTTP/1.1" 405 7652
+2020-11-11 00:57:55,839 WARNING [django.server] "GET /api/token/ HTTP/1.1" 405 7652
+2020-11-11 00:58:03,786 WARNING [django.server] "GET /api/token/refresh/ HTTP/1.1" 405 7463
+2020-11-11 00:58:03,786 WARNING [django.server] "GET /api/token/refresh/ HTTP/1.1" 405 7463
+2020-11-11 00:58:14,461 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-11 00:58:14,461 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-11 00:58:32,150 WARNING [django.server] "GET /auth/users/ HTTP/1.1" 401 10880
+2020-11-11 00:58:32,150 WARNING [django.server] "GET /auth/users/ HTTP/1.1" 401 10880
+2020-11-11 01:00:14,504 WARNING [django.server] "POST /auth/users/ HTTP/1.1" 400 11096
+2020-11-11 01:00:14,504 WARNING [django.server] "POST /auth/users/ HTTP/1.1" 400 11096
+2020-11-11 01:00:25,868 INFO [django.server] "POST /auth/users/ HTTP/1.1" 201 10962
+2020-11-11 01:00:25,868 INFO [django.server] "POST /auth/users/ HTTP/1.1" 201 10962
+2020-11-11 05:18:48,838 WARNING [django.server] "POST /auth/users/ HTTP/1.1" 400 10990
+2020-11-11 05:18:48,838 WARNING [django.server] "POST /auth/users/ HTTP/1.1" 400 10990
+2020-11-11 05:18:48,878 INFO [django.server] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,878 INFO [django.server] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+2020-11-11 05:18:48,879 INFO [django.server] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+2020-11-11 05:18:48,879 INFO [django.server] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,878 INFO [django.server] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,879 INFO [django.server] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+2020-11-11 05:18:48,878 INFO [django.server] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+2020-11-11 05:18:48,879 INFO [django.server] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+2020-11-11 05:18:48,880 INFO [django.server] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+2020-11-11 05:18:48,879 INFO [django.server] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,879 INFO [django.server] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+2020-11-11 05:18:48,880 INFO [django.server] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+2020-11-11 05:18:48,889 INFO [django.server] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,889 INFO [django.server] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,893 INFO [django.server] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,893 INFO [django.server] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,893 INFO [django.server] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,893 INFO [django.server] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,895 INFO [django.server] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,895 INFO [django.server] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+2020-11-11 05:18:48,922 INFO [django.server] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+2020-11-11 05:18:48,922 INFO [django.server] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+2020-11-11 05:18:58,975 WARNING [django.server] "GET /auth/users/set_username/ HTTP/1.1" 401 5565
+2020-11-11 05:18:58,975 WARNING [django.server] "GET /auth/users/set_username/ HTTP/1.1" 401 5565
+2020-11-11 05:19:03,394 WARNING [django.server] "GET /auth/users/activation/ HTTP/1.1" 401 9312
+2020-11-11 05:19:03,394 WARNING [django.server] "GET /auth/users/activation/ HTTP/1.1" 401 9312
+2020-11-11 05:19:10,935 WARNING [django.server] "GET /auth/users/reset_password_confirm/ HTTP/1.1" 401 9743
+2020-11-11 05:19:10,935 WARNING [django.server] "GET /auth/users/reset_password_confirm/ HTTP/1.1" 401 9743
+2020-11-11 05:19:17,200 WARNING [django.server] "GET /auth/users/reset_username/ HTTP/1.1" 401 9089
+2020-11-11 05:19:17,200 WARNING [django.server] "GET /auth/users/reset_username/ HTTP/1.1" 401 9089
+2020-11-11 14:12:26,620 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 14:12:26,620 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-11 14:12:37,649 WARNING [django.server] "GET /api/token/ HTTP/1.1" 405 7652
+2020-11-11 14:12:37,649 WARNING [django.server] "GET /api/token/ HTTP/1.1" 405 7652
+2020-11-11 14:12:37,686 INFO [django.server] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+2020-11-11 14:12:37,687 INFO [django.server] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+2020-11-11 14:12:37,687 INFO [django.server] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+2020-11-11 14:12:37,687 INFO [django.server] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+2020-11-11 14:12:37,686 INFO [django.server] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+2020-11-11 14:12:37,687 INFO [django.server] "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+2020-11-11 14:12:37,687 INFO [django.server] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,688 INFO [django.server] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,687 INFO [django.server] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+2020-11-11 14:12:37,687 INFO [django.server] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+2020-11-11 14:12:37,687 INFO [django.server] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,688 INFO [django.server] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,694 INFO [django.server] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,694 INFO [django.server] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,694 INFO [django.server] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,694 INFO [django.server] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,694 INFO [django.server] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,695 INFO [django.server] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,694 INFO [django.server] "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,695 INFO [django.server] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+2020-11-11 14:12:37,722 INFO [django.server] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+2020-11-11 14:12:37,722 INFO [django.server] "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+2020-11-14 06:37:35,062 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-14 06:37:35,062 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-14 06:37:46,856 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-14 06:37:46,856 INFO [django.utils.autoreload] Watching for file changes with StatReloader
+2020-11-14 06:37:58,815 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-14 06:37:58,815 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-14 06:37:58,873 WARNING [django.server] "GET /favicon.ico HTTP/1.1" 404 2806
+2020-11-14 06:37:58,873 WARNING [django.server] "GET /favicon.ico HTTP/1.1" 404 2806
+2020-11-14 06:38:10,125 WARNING [django.server] "GET /api/token/ HTTP/1.1" 405 7652
+2020-11-14 06:38:10,125 WARNING [django.server] "GET /api/token/ HTTP/1.1" 405 7652
+2020-11-14 06:38:10,220 INFO [django.server] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2020-11-14 06:38:10,221 INFO [django.server] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2020-11-14 06:38:10,222 INFO [django.server] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2020-11-14 06:38:10,220 INFO [django.server] "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2020-11-14 06:38:10,221 INFO [django.server] "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1131
+2020-11-14 06:38:10,222 INFO [django.server] "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2020-11-14 06:38:10,226 INFO [django.server] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2020-11-14 06:38:10,229 INFO [django.server] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2020-11-14 06:38:10,226 INFO [django.server] "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2020-11-14 06:38:10,229 INFO [django.server] "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2020-11-14 06:38:10,240 INFO [django.server] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2020-11-14 06:38:10,240 INFO [django.server] "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2020-11-14 06:38:10,242 INFO [django.server] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+2020-11-14 06:38:10,243 INFO [django.server] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+2020-11-14 06:38:10,243 INFO [django.server] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2020-11-14 06:38:10,242 INFO [django.server] "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 37608
+2020-11-14 06:38:10,243 INFO [django.server] "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2020-11-14 06:38:10,244 INFO [django.server] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2020-11-14 06:38:10,244 INFO [django.server] "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2020-11-14 06:38:10,243 INFO [django.server] "GET /static/rest_framework/js/jquery-3.3.1.min.js HTTP/1.1" 200 86927
+2020-11-14 06:38:10,251 INFO [django.server] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2020-11-14 06:38:10,251 INFO [django.server] "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2020-11-14 06:38:16,306 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-14 06:38:16,306 WARNING [django.server] "GET / HTTP/1.1" 404 2755
+2020-11-14 06:38:25,611 INFO [django.server] "GET /auth/ HTTP/1.1" 200 5309
+2020-11-14 06:38:25,611 INFO [django.server] "GET /auth/ HTTP/1.1" 200 5309
+2020-11-14 06:38:31,566 WARNING [django.server] "GET /auth/users/ HTTP/1.1" 401 10880
+2020-11-14 06:38:31,566 WARNING [django.server] "GET /auth/users/ HTTP/1.1" 401 10880

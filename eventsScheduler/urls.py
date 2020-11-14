@@ -18,6 +18,7 @@ from django.urls import path, include
 from django.conf.urls import url, include
 from django.conf import settings
 from django.http import HttpResponseRedirect
+from rest_framework_simplejwt import views as jwt_views
 
 # Rest API
 from rest_framework import routers
@@ -30,6 +31,8 @@ router.register(r'tasks', TaskViewSet)
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('auth/', include('djoser.urls')),
+    path('api/token/', jwt_views.TokenObtainPairView.as_view(), name='token_obtain_pair'),
+    path('api/token/refresh/', jwt_views.TokenRefreshView.as_view(), name='token_refresh'),
     path('auth/', include('djoser.urls.jwt')),
     path("api/accounts/",include("accounts.urls")),
     #path("api/events/",include("events.urls")),
